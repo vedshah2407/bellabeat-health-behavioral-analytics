@@ -29,6 +29,7 @@ The analysis aims to answer:
 * Data Visualization
 * Data Cleaning & Transformation
 * Behavioral Data Analysis
+* VS Code
 
 ---
 
@@ -65,30 +66,40 @@ The analysis aims to answer:
 
 ---
 
-## Dashboards Included
+## Dashboards
 
-## Dashboard 1 — User Activity Insights
+### Dashboard 1 — User Activity Insights
 
-Analysis of daily activity levels, calories burned, and sedentary vs active behavior.
+![Dashboard 1](Dashboard%20Screenshots/dashboard1-user-activity.png)
 
-![Dashboard 1](Dashboard%20Screenshots/dashboard-1-user-activity.png)
+Focus Areas:
 
----
+* Daily activity trends
+* User movement patterns
+* Calories burned analysis
+* Sedentary vs active behavior
 
-## Dashboard 2 — Behavioural Timing Patterns
+### Dashboard 2 — Behavioral Patterns
 
-Exploration of hourly activity, calorie burn, and exercise intensity trends throughout the day.
+![Dashboard 2](Dashboard%20Screenshots/dashboard2-behavioral-patterns.png)
 
-![Dashboard 2](Dashboard%20Screenshots/dashboard-2-behavioral-patterns.png)
+Focus Areas:
 
----
+* Hourly activity trends
+* Peak engagement hours
+* Calorie burn timing analysis
+* Exercise intensity behavior
 
-## Dashboard 3 — Sleep Behaviour & Efficiency Insights
+### Dashboard 3 — Sleep Efficiency Insights
 
-Analysis of sleep duration, sleep efficiency, and time-in-bed relationships.
+![Dashboard 3](Dashboard%20Screenshots/dashboard3-sleep-efficiency.png)
 
-![Dashboard 3](Dashboard%20Screenshots/dashboard-3-sleep-insights.png)
+Focus Areas:
 
+* Sleep duration distribution
+* Sleep efficiency analysis
+* Time in bed vs sleep quality
+* Sleep behavior insights
 ---
 
 ## Tableau Public Dashboard
