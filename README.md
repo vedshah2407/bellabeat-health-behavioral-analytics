@@ -67,17 +67,27 @@ The analysis aims to answer:
 
 ## Dashboards Included
 
-### Dashboard 1 — User Activity Insights
+## Dashboard 1 — User Activity Insights
 
 Analysis of daily activity levels, calories burned, and sedentary vs active behavior.
 
-### Dashboard 2 — Behavioural Timing Patterns
+![Dashboard 1](Dashboard%20Screenshots/dashboard-1-user-activity.png)
+
+---
+
+## Dashboard 2 — Behavioural Timing Patterns
 
 Exploration of hourly activity, calorie burn, and exercise intensity trends throughout the day.
 
-### Dashboard 3 — Sleep Behaviour & Efficiency Insights
+![Dashboard 2](Dashboard%20Screenshots/dashboard-2-behavioral-patterns.png)
+
+---
+
+## Dashboard 3 — Sleep Behaviour & Efficiency Insights
 
 Analysis of sleep duration, sleep efficiency, and time-in-bed relationships.
+
+![Dashboard 3](Dashboard%20Screenshots/dashboard-3-sleep-insights.png)
 
 ---
 
