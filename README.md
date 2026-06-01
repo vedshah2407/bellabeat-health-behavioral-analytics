@@ -84,7 +84,7 @@ Analysis of sleep duration, sleep efficiency, and time-in-bed relationships.
 ## Tableau Public Dashboard
 
 Live Interactive Dashboard:
-Paste your Tableau Public link here
+[View the Bellabeat Health & Behavioural Analytics Dashboard](https://public.tableau.com/views/BellabeatHealthBehaviouralAnalytics/Dashboard1-UserActivityInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
